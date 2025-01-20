@@ -31,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/Bytezz/IPLookup-gtk.git",
-                    "commit" : "4651a4e63b8348d5da82fb4df422bf990092ab71"
+                    "tag" : "v0.4.0"
                 }
             ]
         }
