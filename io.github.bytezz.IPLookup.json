@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.bytezz.IPLookup",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "47",
+    "runtime-version" : "49",
     "sdk" : "org.gnome.Sdk",
     "command" : "iplookup",
     "finish-args" : [
@@ -31,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/Bytezz/IPLookup-gtk.git",
-                    "tag" : "v0.4.1"
+                    "tag" : "v0.4.2"
                 }
             ]
         }
